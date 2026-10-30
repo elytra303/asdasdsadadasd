@@ -1,0 +1,5 @@
+export const ProductName = "CubeCode A1"
+export const ProductShortName = "CubeCode"
+export const ProductVersion = "A1"
+export const ProductIcon = "🧊"
+export const ProductCliName = "cubecode"
